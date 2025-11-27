@@ -44,12 +44,12 @@ The engine allows:
 ### Authored Scenes
 | Globe (UV texture mapping) | Basketball (authored scene) |
 |----------------------------|-----------------------------|
-| <img src="globeoutput.png" width="420"/> | <img src="artcontestoutput.png" width="420"/> |
+| <img src="data/globeoutput.png" width="420"/> | <img src="data/artcontestoutput.png" width="420"/> |
 
 ### Additional Models Rendered with the Engine
 | Dragon (triangle mesh) | Nefertiti (triangle mesh) |
 |------------------------|---------------------------|
-| <img src="dragonoutput.png" width="420"/> | <img src="nefertitioutput.png" width="420"/> |
+| <img src="data/dragonoutput.png" width="420"/> | <img src="data/nefertitioutput.png" width="420"/> |
 
 Note: Mesh scene files (dragon, nefertiti) were provided as part of a graphics course and are not included here. Screenshots shown here were generated using my implementation of the renderer.
 
